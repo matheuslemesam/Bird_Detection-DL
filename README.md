@@ -52,7 +52,7 @@ Após o treinamento e a avaliação dos três modelos, os resultados foram conso
 
 | Abordagem com ResNet-50 | Acurácia de Validação | Observações |
 | :--- | :--- | :--- |
-| **Fine-Tuning** | **94%** | Apresenta o maior desempenho pois utilizada a ResNet com a base do ImageNet e faz ajustes para se adequar ao nosso dataset. |
+| **Fine-Tuning** | **94%** | Apresenta o maior desempenho pois utiliza a ResNet com a base do ImageNet e faz ajustes para se adequar ao nosso dataset. |
 | **Feature Extraction** | **83%** | Melhor que a treinada do zero mas não tão boa quanto a do fine tuning. |
 | **Treinada do Zero** | **25%** | Teve o desempenho mais baixo, pois requer um dataset muito grande para aprender características complexas do zero. |
 
