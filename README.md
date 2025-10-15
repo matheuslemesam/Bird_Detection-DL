@@ -4,6 +4,16 @@ Este repositório documenta o desenvolvimento de um projeto de classificação d
 
 O projeto foi desenvolvido como parte da disciplina de Tópicos Especiais em Matemática Aplicada da Universidade de Brasília (UnB/FCTE), ministrada pelo Professor Vinicius Rispoli no semestre 2025.2.
 
+## Contribuidores
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+[`@matheuslemesam`](https://github.com/matheuslemesam) • [`@phenric26`](https://github.com/phenric26)
+
+</div>
+
 ## Visão Geral do Projeto
 
 O notebook `Bird_Detection.ipynb` foi estruturado para ser executado no Google Colab, tirando proveito de GPUs para acelerar o treinamento. O fluxo de trabalho pode ser dividido nas seguintes etapas:
